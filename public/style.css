@@ -1,0 +1,27 @@
+body{
+  background-color: gray;
+  margin: auto;
+  width: 80%;
+}
+nav li {
+  display: inline;
+  color: black; padding-right: 7px;
+}
+
+nav a {
+
+  color:white;
+	font-size: 16px;
+	text-decoration: none;
+  }
+
+  nav {
+    background-color: #303030;
+    width: 100px;
+
+    top: -10px;
+    border-radius: 5px;
+  }
+h1 {
+  color: yellow;
+}
